@@ -332,5 +332,3 @@ Ponto de equilíbrio = €14.400 / €13 ≈ **1.108 clientes/mês**
 * **Apoio externo:** possível captação de sócios-investidores com ticket de €15–30K
 
 ---
-
-
