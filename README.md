@@ -334,6 +334,3 @@ Ponto de equilíbrio = €14.400 / €13 ≈ **1.108 clientes/mês**
 ---
 
 
-
-
-
